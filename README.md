@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![WZLN's GitHub stats](https://github-readme-stats.vercel.app/api?username=WZLNa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WZLNa)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs 2](https://github-readme-stats.vercel.app/api/top-langs/?username=WZLNa&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WZLNa)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WZLNa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
