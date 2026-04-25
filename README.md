@@ -1,19 +1,7 @@
 ## Hi there 👋
-
-<!--
-**WZLNa/wzlna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# WZLN
+### 旺仔留奶
+lines=console.log(%22Hello%2C%20World!%22);在读大学生一枚!&center=true&size=27"> </a> </h1>
 
 ![WZLN's GitHub stats](https://github-readme-stats.vercel.app/api?username=WZLNa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WZLNa)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,4 +13,4 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=WZLNa&theme=xcode" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=WZLNa" /> </div>
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=WZLNa"> </div>
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);在读大学生一枚!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?
