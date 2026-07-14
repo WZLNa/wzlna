@@ -36,12 +36,12 @@
 
 
 <div align="center">
-  <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=WZLNa&theme=github-compact&hide_border=true&area=true" />
+  <img height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=WZLNa&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 <div align="center"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WZLNa" /> 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=wzlna&hide_title=true&langs_count=4" />
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=WZLNa" /> 
+<img height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=wzlna&hide_title=true&langs_count=4" />
 </div>
 
 ---
