@@ -37,6 +37,7 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=WZLNa&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WZLNa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+[![WZLN's GitHub stats](https://github-stats-extended.vercel.app/api?username=WZLNa)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
