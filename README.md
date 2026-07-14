@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there 👋 我是 WZLN
+# Hi there 👋 I'm WZLN.
 
-### 旺仔留奶 · 在读大学生 · Code For Code
+### 在读大学生 · Code For Code
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到我的主页&center=true&size=24" />
 
@@ -20,7 +20,7 @@
 ## About Me
 
 - Python、全栈与项目实战
-- 关注代码可读性、逻辑表达与工程习惯
+- 代码可读性、逻辑表达与工程习惯
 - 目前在积极备赛各类赛事
 
 ## 核心价值观
@@ -32,8 +32,6 @@
 ---
 
 ## GitHub 数据看板
-
-
 
 <div align="center">
   <img height="240" src="https://github-readme-activity-graph.vercel.app/graph?username=WZLNa&theme=github-compact&hide_border=true&area=true" />
