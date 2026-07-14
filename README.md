@@ -33,13 +33,7 @@
 
 ## GitHub 数据看板
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=WZLNa&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&hide_title=true&langs_count=4" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WZLNa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WZLNa&theme=github-compact&hide_border=true&area=true" />
@@ -47,6 +41,7 @@
 
 <div align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=WZLNa" /> 
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=wzlna&hide_title=true&langs_count=4" />
 </div>
 
 ---
