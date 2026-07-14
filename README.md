@@ -2,9 +2,9 @@
 
 # Hi there 👋 我是 WZLN
 
-### 旺仔留奶 · 在读大学生 · 热爱编程与分享
+### 旺仔留奶 · 在读大学生 · Code For Code
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到我的主页!&center=true&size=24" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到我的主页&center=true&size=24" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -19,9 +19,9 @@
 
 ## About Me
 
-- 持续学习 Python、前端与项目实战
+- Python、全栈与项目实战
 - 关注代码可读性、逻辑表达与工程习惯
-- 喜欢交流学习心得与开发经验
+- 目前在积极备赛各类赛事
 
 ## 核心价值观
 
@@ -52,14 +52,6 @@
 
 ## 浏览我的个人主页➡️
 <a href=https://www.wzln.top>👋点此进入</a>
-
----
-
-##  近期目标
-
-- [x] 完成 3 个可展示的小项目
-- [ ] 提升代码规范与注释质量
-- [ ] 记录系统化学习笔记
 
 ---
 
