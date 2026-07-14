@@ -62,3 +62,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer&text=THE%20END!&fontSize=60&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=20&descAlignY=45&animation=twinkling" />
 
 </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=WZLNa" /> </div>
