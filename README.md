@@ -36,8 +36,8 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=WZLNa&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&hide_title=true&langs_count=4" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WZLNa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&hide_title=true&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&hide_title=true&langs_count=4)
 
 </div>
 
